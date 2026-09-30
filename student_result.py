@@ -3,7 +3,6 @@ def calculate_result(mark):
         return "Pass"
     else:
         return "Fail"
-
 if __name__ == "__main__":
     mark = 65
     print("Student Mark:", mark)
